@@ -13,7 +13,11 @@ It requires ```OpenCV``` and ```Python``` installation in the OS.
 
 # Images
 
+```Initial Image```
+
 ![img](https://github.com/Versatile-Vishal/Face-Recognition/blob/master/Img/stock_people.jpg)
+
+```Images Seperated```
 
 ![img](https://github.com/Versatile-Vishal/Face-Recognition/blob/master/Img/face-0.jpg)
 
