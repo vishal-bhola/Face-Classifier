@@ -15,4 +15,6 @@ It will also tell the co-ordinates where it detect the face.
 
 ![img](https://github.com/Versatile-Vishal/Face-Recognition/blob/master/Img/face-1.jpg)
 
+```
 ![img](https://github.com/Versatile-Vishal/Face-Recognition/blob/master/Img/Review.png)
+```
