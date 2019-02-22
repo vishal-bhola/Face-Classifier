@@ -22,7 +22,7 @@ It requires ```OpenCV``` and ```Python``` installation in the OS.
 
 # Screenshot
   
-  ```Scrrenshot of Output```
+  ```Screenshot of Output```
   
 ```
 I found 2 face(s) in this photograph.
