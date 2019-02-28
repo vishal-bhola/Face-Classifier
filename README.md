@@ -1,6 +1,6 @@
 # Face-Recognition
 
-Face Recognition Project using `OpenCV 3.3.0`, `Numpy 1.16.0` and `Python 3.7.1` for recognizing the faces in the image provided by the user.
+Face Recognition Project using `OpenCV 3.3.0`, `Pillow 5.4.1`, `face_recognition`and `Python 3.7.1` for recognizing the faces in the image provided by the user.
 
 Identified faces from the image will be seperated as different image file.
 
